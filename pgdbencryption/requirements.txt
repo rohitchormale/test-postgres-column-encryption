@@ -1,0 +1,8 @@
+docker-compose
+flask
+flask-shell-ipython
+flask-sqlalchemy
+flask-wtf
+psycopg2-binary
+pytest-flask
+SQLAlchemy-utils
